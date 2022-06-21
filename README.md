@@ -29,7 +29,7 @@ En programmation fonctionnelle, on conceptualise un programme comme une série d
 ## Techniques clés: 
 *Pour chaque technique, voir le notebook correspondant (cliquer sur le fichier ci-dessus)*
 
-+ [https://github.com/ntartania/INF4083_notebooks/blob/master/ExpressionsConditionnelles.ipynb|Expressions conditionnelles]
++ [https://github.com/ntartania/INF4083_notebooks/blob/master/ExpressionsConditionnelles.ipynb | Expressions conditionnelles]
 + Récursivité et récursivité terminale
   + *En particulier, manipulation de listes par des fonctions récursives*
 + Fonctions de première classe:
