@@ -29,13 +29,13 @@ En programmation fonctionnelle, on conceptualise un programme comme une série d
 ## Techniques clés: 
 *Pour chaque technique, voir le notebook correspondant (cliquer sur le fichier ci-dessus)*
 
-+ [https://github.com/ntartania/INF4083_notebooks/blob/master/ExpressionsConditionnelles.ipynb](Expressions conditionnelles)
-+ Récursivité et récursivité terminale
++ [Expressions conditionnelles](https://github.com/ntartania/INF4083_notebooks/blob/master/ExpressionsConditionnelles.ipynb)
++ [Récursivité et récursivité terminale](https://github.com/ntartania/INF4083_notebooks/blob/master/recursivite.ipynb)
   + *En particulier, manipulation de listes par des fonctions récursives*
-+ Fonctions de première classe:
++ [Fonctions de première classe](https://github.com/ntartania/INF4083_notebooks/blob/master/FonctionsDePremiereClasse.ipynb):
   + manipulation directe de fonctions à l'aide de variables et d'expressions fonctionnelles
   + fonctions d'ordre supérieur: fonctions passées en entrée/sortie d'autres fonctions
-  + parmi les fonctions d'ordre supérieur, voir notamment map-reduce-filter
+  + parmi les fonctions d'ordre supérieur, voir notamment [map-reduce-filter](https://github.com/ntartania/INF4083_notebooks/blob/master/Map-Reduce-Filter.ipynb)
 
 Voir aussi le notebook "Solutions des exercices"
 
