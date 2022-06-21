@@ -27,7 +27,7 @@ En programmation fonctionnelle, on conceptualise un programme comme une série d
   + Il est plus facile de tester des fonctions que des blocs d'instructions quelconques
 
 ## Techniques clés: 
-*Pour chaque technique, voir le notebook correspondant (cliquer sur le fichier ci-dessus)*
+*Les liens dans cette section pointent vers les différents notebook, auxquels on peut aussi accéder directement ci-dessus.*
 
 + [Expressions conditionnelles](https://github.com/ntartania/INF4083_notebooks/blob/master/ExpressionsConditionnelles.ipynb)
 + [Récursivité et récursivité terminale](https://github.com/ntartania/INF4083_notebooks/blob/master/recursivite.ipynb)
