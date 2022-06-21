@@ -36,6 +36,7 @@ En programmation fonctionnelle, on conceptualise un programme comme une série d
   + manipulation directe de fonctions à l'aide de variables et d'expressions fonctionnelles
   + fonctions d'ordre supérieur: fonctions passées en entrée/sortie d'autres fonctions
   + parmi les fonctions d'ordre supérieur, voir notamment [map-reduce-filter](https://github.com/ntartania/INF4083_notebooks/blob/master/Map-Reduce-Filter.ipynb)
-
-Voir aussi le notebook "Solutions des exercices"
+ + Évaluation paresseuse 
+  + ceci est une propriété du langage, qui n'est pas vraie pour Python. Cependant, cette notion est reliée au concepts de [générateur] (https://github.com/ntartania/INF4083_notebooks/blob/master/generateurs.ipynb) et de co-routine, qu'on retrouvera dans le contexte de la programmation distribuée. 
+Voir aussi le notebook [Solutions des exercices](https://github.com/ntartania/INF4083_notebooks/blob/master/Solutions%20des%20exercices.ipynb)
 
